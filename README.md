@@ -114,7 +114,7 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 - [kukapay/uniswap-poolspy-mcp](https://github.com/kukapay/uniswap-poolspy-mcp) - An MCP server that tracks newly created liquidity pools on Uniswap across nine blockchain networks.
 - [assetCLI/assetCLI-init](https://github.com/assetCLI/assetCLI-init) - assetCLI - Goldman Sachs for AI Agents. Winner of the Solana MCP AI Agent Competition. Vibe coding bonding curves, DEX & DAOs
 - [collinsezedike/wormhole-mcp](https://github.com/collinsezedike/wormhole-mcp) - A TypeScript/Node.js Model Context Protocol (MCP) server that enables automatic transfer of tokens across multiple blockchains using the Wormhole SDK.
-- [FarmDash MCP](https://www.farmdash.one/agents) - FarmDash — zero-custody DeFi intelligence with a canonical 94-tool MCP discovery manifest and an older source-installable local stdio mirror. Tool discovery is not runtime enablement, execution authority, or a hosted remote MCP endpoint. Docs: https://www.farmdash.one/agents · Manifest: https://www.farmdash.one/.well-known/mcp.json · Source mirror: https://github.com/Parmasanandgarlic/farmdash-openclaw-skills
+- [FarmDash MCP](https://github.com/Parmasanandgarlic/farmdash-openclaw-skills) - Local stdio server with 94 tools for zero-custody DeFi intelligence and execution control. USER_SIGNED is the default; bounded autonomy requires separate scoped authorization and customer-local signing. [Docs](https://www.farmdash.one/agents) · [Manifest](https://www.farmdash.one/.well-known/mcp.json).
 
 
 ### 📊 <a name="market-data"></a>Market Data
